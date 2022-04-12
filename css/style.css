@@ -143,16 +143,16 @@
 /* This styles the aside container */
 #aSide {
     height: 600px;
-    width: 600px;
+    width: 1200px;
     position: absolute;
     top: calc(50% - 250px);
-    right: 7%;
+    right: 2%;
 }
 
 /* This styles the 3D object inserted in the aside container */
 #aSide model-viewer {
     height: 600px;
-    width: 600px;
+    width: 1200px;
     position: absolute;
     top: 0;
     left: 0;
